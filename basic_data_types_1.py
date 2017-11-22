@@ -1,4 +1,4 @@
-# DATA TYPES
+# BASIC DATA TYPES
 
 
 # STRINGS:
@@ -83,4 +83,8 @@ False # a valid way to express false
 
 # EXERCISES:
 
-# write 5 lists with all of the data types you've learned so far. Make sure this file still runs
+# write 5 lists with all of the data types you've learned so far (including lists). Make sure this file still runs
+
+# ENDNOTE:
+# these are only the basic datatypes in python. There are a couple other datatypes that aren't included here (mainly dictionaries)
+# that you'll discover later
